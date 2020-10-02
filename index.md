@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+#Jaringan Nirkabel
 
-You can use the [editor on GitHub](https://github.com/sahala12/Keamanan-Jaringan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##pengertian jaringan nirkabel
+  Jaringan nirkabel adalah suatu jaringan yang menghubungkan unit komputer yanag jauh atau dekat menggunakan tanpa kabel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Keamanan Jaringan
+   Keamanan jaringan sangat lah rentang karena bisa disadap atau  saling mengadap,Kalo misalnya kita mau mengirim data lewat udara bebas. 
+   ada beberapa cara untuk mengatasi jaringan, sebagai berikut:
+   ##1.(Wired Equivalent Privacy). 
+       Cara ini dengan menyandikan data tersebut.WEP didasarkan pada algoritma enkripsi,dimana RS4 itu dengan
+       mengandingkan data mengunakan kunci.Kunciny itu berada dengan penerima dan pengirim .RSA kuncinya sama hanya saja betnya diputar 
+       antara pengirim dan penerima.
+   ##2.SSID (Service Set Identifier).
+       Cara ini berupa password sederhana untuk menghindari pengaruh yang tidak bertanggung jawab, maka 
+       password dirubah secara bertahap.
+   ##3.Filter Alamat MAC (Media Access Control).
+       Cara ini membantu menangkal pengguna akses pada jaringan WLAN yang mau mau masuk kealamat MAC. 
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +32,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://pixabay.com/id/illustrations/jari-sidik-jari-keamanan-digital-2081169/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
