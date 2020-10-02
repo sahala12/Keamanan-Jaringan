@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://pixabay.com/id/illustrations/jari-sidik-jari-keamanan-digital-2081169/)
+[https://pixabay.com/id/illustrations/jari-sidik-jari-keamanan-digital-2081169/](url) and !
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
