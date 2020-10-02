@@ -1,29 +1,15 @@
-###Jaringan Nirkabel
+                        
 
-##pengertian jaringan nirkabel
-  Jaringan nirkabel adalah suatu jaringan yang menghubungkan unit komputer yanag jauh atau dekat menggunakan tanpa kabel.
-
-
-# Keamanan Jaringan
-   Keamanan jaringan sangat lah rentang karena bisa disadap atau  saling mengadap,Kalo misalnya kita mau mengirim data lewat udara bebas. 
-   ada beberapa cara untuk mengatasi jaringan, sebagai berikut:
-   ##1.(Wired Equivalent Privacy). 
-       Cara ini dengan menyandikan data tersebut.WEP didasarkan pada algoritma enkripsi,dimana RS4 itu dengan
-       mengandingkan data mengunakan kunci.Kunciny itu berada dengan penerima dan pengirim .RSA kuncinya sama hanya saja betnya diputar 
-       antara pengirim dan penerima.
-   ##2.SSID (Service Set Identifier).
-       Cara ini berupa password sederhana untuk menghindari pengaruh yang tidak bertanggung jawab, maka 
-       password dirubah secara bertahap.
-   ##3.Filter Alamat MAC (Media Access Control).
-       Cara ini membantu menangkal pengguna akses pada jaringan WLAN yang mau mau masuk kealamat MAC. 
+  ## Jaringan Nirkabel
+   ##pengertian jaringan nirkabel
+         Jaringan nirkabel adalah suatu jaringan yang menghubungkan unit komputer yanag jauh atau dekat menggunakan tanpa kabel.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+ ## Keamanan Jaringan
+  Keamanan jaringan sangat lah rentang karena bisa disadap atau  saling mengadap,Kalo misalnya kita mau mengirim data lewat udara bebas. 
+   ada beberapa cara untuk mengatasi jaringan, sebagai berikut:
 - (Wired Equivalent Privacy). 
        Cara ini dengan menyandikan data tersebut.WEP didasarkan pada algoritma enkripsi,dimana RS4 itu dengan
        mengandingkan data mengunakan kunci.Kunciny itu berada dengan penerima dan pengirim .RSA kuncinya sama hanya saja betnya diputar 
